@@ -1,16 +1,17 @@
-## Hi there 👋
+## Ashuthosh Dubey
 
-<!--
-**AshDBY/AshDBY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical writer working on API documentation and integration guides.
 
-Here are some ideas to get you started:
+Currently at Hiver. Previously at FastPix writing about video engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Work I do:**
+- API documentation
+- Integration guides
+- Technical tutorials
+- Developer content
+
+**Tools:** Git, Postman, Markdown, Webflow
+
+**Contact:** 
+- Email: ashuthosh.m.dubey@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ashuthosh-dubey
